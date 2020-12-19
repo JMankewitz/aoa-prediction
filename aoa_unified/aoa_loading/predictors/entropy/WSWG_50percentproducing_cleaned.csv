@@ -1,0 +1,639 @@
+id,word,language,form,type,category,lexical_category,lexical_class,uni_lemma,aoa_in_seconds,aoa,lemma,stem_lemma
+0,daddy (child's word),English (American),WG,word,people,other,other,daddy,29808000,345,daddy,daddy
+1,mommy (child's word),English (American),WG,word,people,other,other,mommy,30240000,350,mommy,mommy
+2,bye,English (American),WG,word,games_routines,other,other,bye,35164800,407,bye,bye
+3,uh oh,English (American),WG,word,sounds,other,other,uh oh,36374400,421,uh oh,uh oh
+4,hi,English (American),WG,word,games_routines,other,other,hi,37238400,431,hi,hi
+5,ball,English (American),WG,word,toys,nouns,nouns,ball,37411200,433,ball,ball
+6,dog,English (American),WG,word,animals,nouns,nouns,dog,38966400,451,dog,dog
+7,no,English (American),WG,word,games_routines,other,other,no,39312000,455,no,no
+8,woof woof,English (American),WG,word,sounds,other,other,woof woof,39916800,462,woof woof,woof woof
+9,yum yum,English (American),WG,word,sounds,other,other,yum yum,41040000,475,yum yum,yum yum
+10,baby,English (American),WG,word,people,other,other,baby,41212800,477,baby,baby
+11,book,English (American),WG,word,toys,nouns,nouns,book,41990400,486,book,book
+12,grrr,English (American),WG,word,sounds,other,other,grrr,42076800,487,grrr,grrr
+13,moo,English (American),WG,word,sounds,other,other,moo,42076800,487,moo,moo
+14,meow,English (American),WG,word,sounds,other,other,meow,42595200,493,meow,meow
+15,banana,English (American),WG,word,food_drink,nouns,nouns,banana,42595200,493,banana,banana
+16,vroom,English (American),WS,word,sounds,other,other,vroom,42595200,493,vroom,vroom
+17,shoe,English (American),WG,word,clothing,nouns,nouns,shoe,42940800,497,shoe,shoe
+18,duck,English (American),WS,word,animals,nouns,nouns,duck,43372800,502,duck,duck
+19,bird,English (American),WS,word,animals,nouns,nouns,bird,43545600,504,bird,bird
+20,eye,English (American),WS,word,body_parts,nouns,nouns,eye,43977600,509,eye,eye
+21,nose,English (American),WS,word,body_parts,nouns,nouns,nose,44150400,511,nose,nose
+22,balloon,English (American),WS,word,toys,nouns,nouns,balloon,44409600,514,balloon,balloon
+23,ouch,English (American),WS,word,sounds,other,other,ouch,44496000,515,ouch,ouch
+24,quack quack,English (American),WS,word,sounds,other,other,quack quack,44582400,516,quack quack,quack quack
+25,car,English (American),WS,word,vehicles,nouns,nouns,car,44668800,517,car,car
+26,hot,English (American),WS,word,descriptive_words,predicates,adjectives,hot,45014400,521,hot,hot
+27,kitty,English (American),WS,word,animals,nouns,nouns,kitty,45100800,522,kitty,kitty
+28,baa baa,English (American),WG,word,sounds,other,other,baa baa,45273600,524,baa baa,baa baa
+29,juice,English (American),WS,word,food_drink,nouns,nouns,juice,45273600,524,juice,juice
+30,night night,English (American),WS,word,games_routines,other,other,good night,45273600,524,good night,good night
+31,grandma (child's word),English (American),WS,word,people,other,other,grandma,45360000,525,grandma,grandma
+32,cat,English (American),WS,word,animals,nouns,nouns,cat,45532800,527,cat,cat
+33,cookie,English (American),WS,word,food_drink,nouns,nouns,cookie,46396800,537,cookie,cookie
+34,thank you,English (American),WS,word,games_routines,other,other,thank you,46483200,538,thank you,thank you
+35,cheese,English (American),WS,word,food_drink,nouns,nouns,cheese,46569600,539,cheese,cheese
+36,milk,English (American),WS,word,food_drink,nouns,nouns,milk,46569600,539,milk,milk
+37,ear,English (American),WS,word,body_parts,nouns,nouns,ear,46569600,539,ear,ear
+38,bath,English (American),WS,word,games_routines,other,other,bath,46569600,539,bath,bath
+39,bubbles,English (American),WS,word,toys,nouns,nouns,bubbles,46828800,542,bubbles,bubble
+40,apple,English (American),WS,word,food_drink,nouns,nouns,apple,46915200,543,apple,apple
+41,yes,English (American),WS,word,games_routines,other,other,yes,46915200,543,yes,yes
+42,hat,English (American),WS,word,clothing,nouns,nouns,hat,47606400,551,hat,hat
+43,grandpa (child's word),English (American),WS,word,people,other,other,grandpa,48038400,556,grandpa,grandpa
+44,bottle,English (American),WS,word,household,nouns,nouns,bottle,48124800,557,bottle,bottle
+45,hello,English (American),WS,word,games_routines,other,other,hello,48297600,559,hello,hello
+46,shh/shush/hush,English (American),WS,word,games_routines,other,other,shh,48470400,561,shh,shh
+47,fish (animal),English (American),WS,word,animals,nouns,nouns,fish,48643200,563,fish,fish
+48,up,English (American),WS,word,locations,function_words,function_words,up,48643200,563,up,up
+49,please,English (American),WS,word,games_routines,other,other,please,48729600,564,please,please
+50,all gone,English (American),WS,word,descriptive_words,predicates,adjectives,all gone,48816000,565,all gone,all gone
+51,truck,English (American),WS,word,vehicles,nouns,nouns,truck,48902400,566,truck,truck
+52,bear,English (American),WS,word,animals,nouns,nouns,bear,49075200,568,bear,bear
+53,cracker,English (American),WS,word,food_drink,nouns,nouns,cracker,49075200,568,cracker,cracker
+54,peekaboo,English (American),WS,word,games_routines,other,other,peekaboo,49075200,568,peekaboo,peekaboo
+55,water (beverage),English (American),WS,word,food_drink,nouns,nouns,water,49161600,569,water,water
+56,owie/boo boo,English (American),WS,word,body_parts,nouns,nouns,owie,49507200,573,owie,owie
+57,choo choo,English (American),WS,word,sounds,other,other,choo choo,49593600,574,choo choo,choo choo
+58,diaper,English (American),WS,word,clothing,nouns,nouns,diaper,49852800,577,diaper,diaper
+59,go,English (American),WS,word,action_words,predicates,verbs,go,50198400,581,go,go
+60,cup,English (American),WS,word,household,nouns,nouns,cup,50284800,582,cup,cup
+61,water (not beverage),English (American),WS,word,outside,nouns,nouns,water (not beverage),50544000,585,water,water
+62,down,English (American),WS,word,locations,function_words,function_words,down,50630400,586,down,down
+63,hair,English (American),WS,word,body_parts,nouns,nouns,hair,50716800,587,hair,hair
+64,child's own name,English (American),WS,word,people,other,other,child's own name,51148800,592,child's own name,child's own name
+65,cow,English (American),WS,word,animals,nouns,nouns,cow,51321600,594,cow,cow
+66,more,English (American),WS,word,quantifiers,function_words,function_words,more,51321600,594,more,more
+67,outside,English (American),WS,word,places,other,other,outside,51494400,596,outside,outside
+68,spoon,English (American),WS,word,household,nouns,nouns,spoon,51667200,598,spoon,spoon
+69,mine,English (American),WS,word,pronouns,function_words,function_words,mine,51667200,598,mine,mine
+70,door,English (American),WS,word,furniture_rooms,nouns,nouns,door,51840000,600,door,door
+71,eat,English (American),WS,word,action_words,predicates,verbs,eat,51926400,601,eat,eat
+72,airplane,English (American),WS,word,vehicles,nouns,nouns,airplane,52012800,602,airplane,airplane
+73,tree,English (American),WS,word,outside,nouns,nouns,tree,52012800,602,tree,tree
+74,mouth,English (American),WS,word,body_parts,nouns,nouns,mouth,52099200,603,mouth,mouth
+75,light,English (American),WS,word,household,nouns,nouns,light,52444800,607,light,light
+76,horse,English (American),WS,word,animals,nouns,nouns,horse,52704000,610,horse,horse
+77,belly button,English (American),WS,word,body_parts,nouns,nouns,belly button,52704000,610,belly button,belly button
+78,flower,English (American),WS,word,outside,nouns,nouns,flower,52704000,610,flower,flower
+79,blanket,English (American),WS,word,household,nouns,nouns,blanket,52790400,611,blanket,blanket
+80,bunny,English (American),WS,word,animals,nouns,nouns,bunny,52876800,612,bunny,bunny
+81,sock,English (American),WS,word,clothing,nouns,nouns,sock,53136000,615,sock,sock
+82,boat,English (American),WS,word,vehicles,nouns,nouns,boat,53222400,616,boat,boat
+83,bed,English (American),WS,word,furniture_rooms,nouns,nouns,bed,53308800,617,bed,bed
+84,puppy,English (American),WS,word,animals,nouns,nouns,puppy,53481600,619,puppy,puppy
+85,pig,English (American),WS,word,animals,nouns,nouns,pig,53568000,620,pig,pig
+86,chair,English (American),WS,word,furniture_rooms,nouns,nouns,chair,53568000,620,chair,chair
+87,moon,English (American),WS,word,outside,nouns,nouns,moon,53568000,620,moon,moon
+88,bus,English (American),WS,word,vehicles,nouns,nouns,bus,53913600,624,bus,bus
+89,foot,English (American),WS,word,body_parts,nouns,nouns,foot,54000000,625,foot,foot
+90,toe,English (American),WS,word,body_parts,nouns,nouns,toe,54000000,625,toe,toe
+91,train,English (American),WS,word,vehicles,nouns,nouns,train,54259200,628,train,train
+92,bee,English (American),WS,word,animals,nouns,nouns,bee,54345600,629,bee,bee
+93,cold,English (American),WS,word,descriptive_words,predicates,adjectives,cold,54432000,630,cold,cold
+94,drink (beverage),English (American),WS,word,food_drink,nouns,nouns,drink,54518400,631,drink,drink
+95,keys,English (American),WS,word,household,nouns,nouns,keys,54518400,631,keys,key
+96,telephone,English (American),WS,word,household,nouns,nouns,telephone,54518400,631,telephone,telephone
+97,potty,English (American),WS,word,furniture_rooms,nouns,nouns,potty,54518400,631,potty,potty
+98,hand,English (American),WS,word,body_parts,nouns,nouns,hand,54691200,633,hand,hand
+99,drink (action),English (American),WS,word,action_words,predicates,verbs,drink,54777600,634,drink,drink
+100,kiss,English (American),WS,word,action_words,predicates,verbs,kiss,54777600,634,kiss,kiss
+101,pet's name,English (American),WS,word,people,other,other,pet's name,54864000,635,pet's name,pet's name
+102,bug,English (American),WS,word,animals,nouns,nouns,bug,55209600,639,bug,bug
+103,monkey,English (American),WS,word,animals,nouns,nouns,monkey,55296000,640,monkey,monkey
+104,block,English (American),WS,word,toys,nouns,nouns,block,55296000,640,block,block
+105,toy (object),English (American),WS,word,toys,nouns,nouns,toy,55296000,640,toy,toy
+106,tummy,English (American),WS,word,body_parts,nouns,nouns,tummy,55382400,641,tummy,tummy
+107,pizza,English (American),WS,word,food_drink,nouns,nouns,pizza,55468800,642,pizza,pizza
+108,off,English (American),WS,word,locations,function_words,function_words,off,55468800,642,off,off
+109,head,English (American),WS,word,body_parts,nouns,nouns,head,55555200,643,head,head
+110,toothbrush,English (American),WS,word,household,nouns,nouns,toothbrush,55641600,644,toothbrush,toothbrush
+111,bread,English (American),WS,word,food_drink,nouns,nouns,bread,55814400,646,bread,bread
+112,bicycle,English (American),WS,word,vehicles,nouns,nouns,bicycle,55900800,647,bicycle,bicycle
+113,TV,English (American),WS,word,furniture_rooms,nouns,nouns,tv,55900800,647,tv,tv
+114,home,English (American),WS,word,places,other,other,home,55900800,647,home,home
+115,shirt,English (American),WS,word,clothing,nouns,nouns,shirt,56073600,649,shirt,shirt
+116,tooth,English (American),WS,word,body_parts,nouns,nouns,tooth,56160000,650,tooth,tooth
+117,on,English (American),WS,word,locations,function_words,function_words,on,56160000,650,on,on
+118,finger,English (American),WS,word,body_parts,nouns,nouns,finger,56246400,651,finger,finger
+119,swing (object),English (American),WS,word,outside,nouns,nouns,swing,56246400,651,swing,swing
+120,hug,English (American),WS,word,action_words,predicates,verbs,hug,56246400,651,hug,hug
+121,open,English (American),WS,word,action_words,predicates,verbs,open (action),56332800,652,open,open
+122,arm,English (American),WS,word,body_parts,nouns,nouns,arm,56419200,653,arm,arm
+123,ice cream,English (American),WS,word,food_drink,nouns,nouns,ice cream,56505600,654,ice cream,ice cream
+124,brush,English (American),WS,word,household,nouns,nouns,brush,56505600,654,brush,brush
+125,fork,English (American),WS,word,household,nouns,nouns,fork,56678400,656,fork,fork
+126,sit,English (American),WS,word,action_words,predicates,verbs,sit,56678400,656,sit,sit
+127,yucky,English (American),WS,word,descriptive_words,predicates,adjectives,yucky,56678400,656,yucky,yucky
+128,doll,English (American),WS,word,toys,nouns,nouns,doll,56764800,657,doll,doll
+129,rock,English (American),WS,word,outside,nouns,nouns,rock,56764800,657,rock,rock
+130,out,English (American),WS,word,locations,function_words,function_words,out,56764800,657,out,out
+131,frog,English (American),WS,word,animals,nouns,nouns,frog,56851200,658,frog,frog
+132,cereal,English (American),WS,word,food_drink,nouns,nouns,cereal,56851200,658,cereal,cereal
+133,egg,English (American),WS,word,food_drink,nouns,nouns,egg,56851200,658,egg,egg
+134,me,English (American),WS,word,pronouns,function_words,function_words,me,56851200,658,me,me
+135,grapes,English (American),WS,word,food_drink,nouns,nouns,grapes,56937600,659,grapes,grape
+136,cake,English (American),WS,word,food_drink,nouns,nouns,cake,57024000,660,cake,cake
+137,fish (food),English (American),WS,word,food_drink,nouns,nouns,fish,57024000,660,fish,fish
+138,bathtub,English (American),WS,word,furniture_rooms,nouns,nouns,bathtub,57024000,660,bathtub,bathtub
+139,bite,English (American),WS,word,action_words,predicates,verbs,bite,57024000,660,bite,bite
+140,rain,English (American),WS,word,outside,nouns,nouns,rain,57196800,662,rain,rain
+141,buttocks/bottom (child's word),English (American),WS,word,body_parts,nouns,nouns,butt,57283200,663,butt,butt
+142,pants,English (American),WS,word,clothing,nouns,nouns,pants,57369600,664,pants,pant
+143,box,English (American),WS,word,household,nouns,nouns,box,57369600,664,box,box
+144,button,English (American),WS,word,clothing,nouns,nouns,button,57456000,665,button,button
+145,dirty,English (American),WS,word,descriptive_words,predicates,adjectives,dirty,57456000,665,dirty,dirty
+146,pillow,English (American),WS,word,household,nouns,nouns,pillow,57628800,667,pillow,pillow
+147,big,English (American),WS,word,descriptive_words,predicates,adjectives,big,57888000,670,big,big
+148,star,English (American),WS,word,outside,nouns,nouns,star,57974400,671,star,star
+149,candy,English (American),WS,word,food_drink,nouns,nouns,candy,58060800,672,candy,candy
+150,wet,English (American),WS,word,descriptive_words,predicates,adjectives,wet (description),58060800,672,wet,wet
+151,boots,English (American),WS,word,clothing,nouns,nouns,boots,58147200,673,boots,boot
+152,read,English (American),WS,word,action_words,predicates,verbs,read,58147200,673,read,read
+153,soap,English (American),WS,word,household,nouns,nouns,soap,58233600,674,soap,soap
+154,knee,English (American),WS,word,body_parts,nouns,nouns,knee,58320000,675,knee,knee
+155,bowl,English (American),WS,word,household,nouns,nouns,bowl,58320000,675,bowl,bowl
+156,nap,English (American),WS,word,games_routines,other,other,nap,58320000,675,nap,nap
+157,elephant,English (American),WS,word,animals,nouns,nouns,elephant,58406400,676,elephant,elephant
+158,coat,English (American),WS,word,clothing,nouns,nouns,coat,58406400,676,coat,coat
+159,walk,English (American),WS,word,action_words,predicates,verbs,walk,58406400,676,walk,walk
+160,chicken (food),English (American),WS,word,food_drink,nouns,nouns,chicken (food),58492800,677,chicken,chicken
+161,paper,English (American),WS,word,household,nouns,nouns,paper,58492800,677,paper,paper
+162,go potty,English (American),WS,word,games_routines,other,other,go potty,58492800,677,go potty,go potty
+163,stop,English (American),WS,word,action_words,predicates,verbs,stop,58492800,677,stop,stop
+164,house,English (American),WS,word,places,other,other,house,58579200,678,house,house
+165,help,English (American),WS,word,action_words,predicates,verbs,help,58579200,678,help,help
+166,turtle,English (American),WS,word,animals,nouns,nouns,turtle,58665600,679,turtle,turtle
+167,ice,English (American),WS,word,food_drink,nouns,nouns,ice,58665600,679,ice,ice
+168,orange (food),English (American),WS,word,food_drink,nouns,nouns,orange (food),58665600,679,orange,orange
+169,play,English (American),WS,word,action_words,predicates,verbs,play,58665600,679,play,play
+170,chicken (animal),English (American),WS,word,animals,nouns,nouns,chicken (animal),58838400,681,chicken,chicken
+171,see,English (American),WS,word,action_words,predicates,verbs,see,58838400,681,see,see
+172,clock,English (American),WS,word,household,nouns,nouns,clock,58924800,682,clock,clock
+173,sleep,English (American),WS,word,action_words,predicates,verbs,sleep,59011200,683,sleep,sleep
+174,lion,English (American),WS,word,animals,nouns,nouns,lion,59097600,684,lion,lion
+175,french fries,English (American),WS,word,food_drink,nouns,nouns,french fries,59097600,684,french fries,french fries
+176,blue,English (American),WS,word,descriptive_words,predicates,adjectives,blue,59097600,684,blue,blue
+177,leg,English (American),WS,word,body_parts,nouns,nouns,leg,59184000,685,leg,leg
+178,sun,English (American),WS,word,outside,nouns,nouns,sun,59184000,685,sun,sun
+179,love,English (American),WS,word,action_words,predicates,verbs,love,59270400,686,love,love
+180,swing (action),English (American),WS,word,action_words,predicates,verbs,swing (action),59270400,686,swing,swing
+181,mouse,English (American),WS,word,animals,nouns,nouns,mouse,59356800,687,mouse,mouse
+182,slide (object),English (American),WS,word,outside,nouns,nouns,slide (object),59356800,687,slide,slide
+183,jump,English (American),WS,word,action_words,predicates,verbs,jump,59356800,687,jump,jump
+184,butterfly,English (American),WS,word,animals,nouns,nouns,butterfly,59443200,688,butterfly,butterfly
+185,crayon,English (American),WS,word,toys,nouns,nouns,crayon,59443200,688,crayon,crayon
+186,towel,English (American),WS,word,household,nouns,nouns,towel,59529600,689,towel,towel
+187,park,English (American),WS,word,places,other,other,park,59616000,690,park,park
+188,teddybear,English (American),WS,word,animals,nouns,nouns,teddybear,59702400,691,teddybear,teddybear
+189,boy,English (American),WS,word,people,other,other,boy,59961600,694,boy,boy
+190,cry,English (American),WS,word,action_words,predicates,verbs,cry,59961600,694,cry,cry
+191,tickle,English (American),WS,word,action_words,predicates,verbs,tickle,59961600,694,tickle,tickle
+192,pajamas,English (American),WS,word,clothing,nouns,nouns,pajamas,60048000,695,pajamas,pajama
+193,tongue,English (American),WS,word,body_parts,nouns,nouns,tongue,60048000,695,tongue,tongue
+194,glasses,English (American),WS,word,household,nouns,nouns,glasses,60048000,695,glasses,glass
+195,cheek,English (American),WS,word,body_parts,nouns,nouns,cheek,60220800,697,cheek,cheek
+196,money,English (American),WS,word,household,nouns,nouns,money,60220800,697,money,money
+197,dance,English (American),WS,word,action_words,predicates,verbs,dance,60307200,698,dance,dance
+198,fall,English (American),WS,word,action_words,predicates,verbs,fall,60307200,698,fall,fall
+199,toast,English (American),WS,word,food_drink,nouns,nouns,toast,60393600,699,toast,toast
+200,grass,English (American),WS,word,outside,nouns,nouns,grass,60393600,699,grass,grass
+201,sheep,English (American),WS,word,animals,nouns,nouns,sheep,60480000,700,sheep,sheep
+202,food,English (American),WS,word,food_drink,nouns,nouns,food,60480000,700,food,food
+203,broken,English (American),WS,word,descriptive_words,predicates,adjectives,broken,60566400,701,broken,broken
+204,cheerios,English (American),WS,word,food_drink,nouns,nouns,cheerios,60652800,702,cheerios,cheerio
+205,bathroom,English (American),WS,word,furniture_rooms,nouns,nouns,bathroom,60652800,702,bathroom,bathroom
+206,table,English (American),WS,word,furniture_rooms,nouns,nouns,table,60739200,703,table,table
+207,pool,English (American),WS,word,outside,nouns,nouns,pool,60739200,703,pool,pool
+208,yogurt,English (American),WS,word,food_drink,nouns,nouns,yogurt,60912000,705,yogurt,yogurt
+209,school,English (American),WS,word,places,other,other,school,60912000,705,school,school
+210,bib,English (American),WS,word,clothing,nouns,nouns,bib,60998400,706,bib,bib
+211,run,English (American),WS,word,action_words,predicates,verbs,run,60998400,706,run,run
+212,owl,English (American),WS,word,animals,nouns,nouns,owl,61084800,707,owl,owl
+213,call (on phone),English (American),WS,word,games_routines,other,other,call on phone,61084800,707,call on phone,call on phone
+214,clap,English (American),WS,word,action_words,predicates,verbs,clap,61084800,707,clap,clap
+215,that,English (American),WS,word,pronouns,function_words,function_words,that,61084800,707,that,that
+216,face,English (American),WS,word,body_parts,nouns,nouns,face,61171200,708,face,face
+217,store,English (American),WS,word,places,other,other,store,61171200,708,store,store
+218,wash,English (American),WS,word,action_words,predicates,verbs,wash,61171200,708,wash,wash
+219,carrots,English (American),WS,word,food_drink,nouns,nouns,carrots,61344000,710,carrots,carrot
+220,broom,English (American),WS,word,household,nouns,nouns,broom,61344000,710,broom,broom
+221,clean (description),English (American),WS,word,descriptive_words,predicates,adjectives,clean (description),61344000,710,clean,clean
+222,pen,English (American),WS,word,toys,nouns,nouns,pen,61430400,711,pen,pen
+223,jacket,English (American),WS,word,clothing,nouns,nouns,jacket,61430400,711,jacket,jacket
+224,what,English (American),WS,word,question_words,function_words,function_words,what,61430400,711,what,what
+225,tiger,English (American),WS,word,animals,nouns,nouns,tiger,61516800,712,tiger,tiger
+226,look,English (American),WS,word,action_words,predicates,verbs,look,61516800,712,look,look
+227,good,English (American),WS,word,descriptive_words,predicates,adjectives,good,61516800,712,good,good
+228,inside/in,English (American),WS,word,locations,function_words,function_words,in,61516800,712,in,in
+229,chin,English (American),WS,word,body_parts,nouns,nouns,chin,61603200,713,chin,chin
+230,noodles,English (American),WS,word,food_drink,nouns,nouns,pasta,61776000,715,pasta,pasta
+231,popcorn,English (American),WS,word,food_drink,nouns,nouns,popcorn,61776000,715,popcorn,popcorn
+232,kitchen,English (American),WS,word,furniture_rooms,nouns,nouns,kitchen,61776000,715,kitchen,kitchen
+233,work (place),English (American),WS,word,places,other,other,work (place),61776000,715,work,work
+234,get,English (American),WS,word,action_words,predicates,verbs,get,61776000,715,get,get
+235,I,English (American),WS,word,pronouns,function_words,function_words,i,61776000,715,i,i
+236,corn,English (American),WS,word,food_drink,nouns,nouns,corn,61862400,716,corn,corn
+237,plate,English (American),WS,word,household,nouns,nouns,plate,61862400,716,plate,plate
+238,shower,English (American),WS,word,furniture_rooms,nouns,nouns,shower,61862400,716,shower,shower
+239,girl,English (American),WS,word,people,other,other,girl,61862400,716,girl,girl
+240,snack,English (American),WS,word,games_routines,other,other,snack,61862400,716,snack,snack
+241,blow,English (American),WS,word,action_words,predicates,verbs,blow,61862400,716,blow,blow
+242,red,English (American),WS,word,descriptive_words,predicates,adjectives,red,61862400,716,red,red
+243,raisin,English (American),WS,word,food_drink,nouns,nouns,raisin,61948800,717,raisin,raisin
+244,you,English (American),WS,word,pronouns,function_words,function_words,you,61948800,717,you,you
+245,picture,English (American),WS,word,household,nouns,nouns,picture,62035200,718,picture,picture
+246,clean (action),English (American),WS,word,action_words,predicates,verbs,clean (action),62121600,719,clean,clean
+247,strawberry,English (American),WS,word,food_drink,nouns,nouns,strawberry,62208000,720,strawberry,strawberry
+248,ride,English (American),WS,word,action_words,predicates,verbs,ride,62294400,721,ride,ride
+249,breakfast,English (American),WS,word,games_routines,other,other,breakfast,62380800,722,breakfast,breakfast
+250,happy,English (American),WS,word,descriptive_words,predicates,adjectives,happy,62380800,722,happy,happy
+251,giraffe,English (American),WS,word,animals,nouns,nouns,giraffe,62467200,723,giraffe,giraffe
+252,sky,English (American),WS,word,outside,nouns,nouns,sky,62467200,723,sky,sky
+253,yellow,English (American),WS,word,descriptive_words,predicates,adjectives,yellow,62467200,723,yellow,yellow
+254,firetruck,English (American),WS,word,vehicles,nouns,nouns,firetruck,62553600,724,firetruck,firetruck
+255,medicine,English (American),WS,word,household,nouns,nouns,medicine,62553600,724,medicine,medicine
+256,hungry,English (American),WS,word,descriptive_words,predicates,adjectives,hungry,62553600,724,hungry,hungry
+257,puzzle,English (American),WS,word,toys,nouns,nouns,puzzle,62640000,725,puzzle,puzzle
+258,pancake,English (American),WS,word,food_drink,nouns,nouns,pancake,62640000,725,pancake,pancake
+259,animal,English (American),WS,word,animals,nouns,nouns,animal,62726400,726,animal,animal
+260,potato chip,English (American),WS,word,food_drink,nouns,nouns,chips,62726400,726,chips,chip
+261,slide (action),English (American),WS,word,action_words,predicates,verbs,slide (action),62726400,726,slide,slide
+262,orange (description),English (American),WS,word,descriptive_words,predicates,adjectives,orange (description),62726400,726,orange,orange
+263,spaghetti,English (American),WS,word,food_drink,nouns,nouns,pasta,62812800,727,pasta,pasta
+264,sweater,English (American),WS,word,clothing,nouns,nouns,sweater,62812800,727,sweater,sweater
+265,watch (object),English (American),WS,word,household,nouns,nouns,watch (object),62812800,727,watch,watch
+266,lunch,English (American),WS,word,games_routines,other,other,lunch,62899200,728,lunch,lunch
+267,close,English (American),WS,word,action_words,predicates,verbs,close,62899200,728,close,close
+268,couch,English (American),WS,word,furniture_rooms,nouns,nouns,couch,62985600,729,couch,couch
+269,stick,English (American),WS,word,outside,nouns,nouns,stick,62985600,729,stick,stick
+270,dinner,English (American),WS,word,games_routines,other,other,dinner,62985600,729,dinner,dinner
+271,kick,English (American),WS,word,action_words,predicates,verbs,kick,62985600,729,kick,kick
+272,green,English (American),WS,word,descriptive_words,predicates,adjectives,green,62985600,729,green,green
+273,butter,English (American),WS,word,food_drink,nouns,nouns,butter,63072000,730,butter,butter
+274,trash,English (American),WS,word,household,nouns,nouns,trash,63072000,730,trash,trash
+275,hit,English (American),WS,word,action_words,predicates,verbs,hit,63072000,730,hit,hit
+276,sing,English (American),WS,word,action_words,predicates,verbs,sing,63072000,730,sing,sing
+277,throw,English (American),WS,word,action_words,predicates,verbs,throw,63072000,730,throw,throw
+278,pretty,English (American),WS,word,descriptive_words,predicates,adjectives,pretty,63072000,730,pretty,pretty
+279,vacuum,English (American),WS,word,household,nouns,nouns,vacuum,63158400,731,vacuum,vacuum
+280,hurt,English (American),WS,word,descriptive_words,predicates,adjectives,hurt (description),63158400,731,hurt,hurt
+281,night,English (American),WS,word,time_words,other,other,night,63244800,732,night,night
+282,push,English (American),WS,word,action_words,predicates,verbs,push,63331200,733,push,push
+283,swim,English (American),WS,word,action_words,predicates,verbs,swim,63331200,733,swim,swim
+284,beans,English (American),WS,word,food_drink,nouns,nouns,beans,63417600,734,beans,bean
+285,peanut butter,English (American),WS,word,food_drink,nouns,nouns,peanut butter,63417600,734,peanut butter,peanut butter
+286,peas,English (American),WS,word,food_drink,nouns,nouns,peas,63504000,735,peas,pea
+287,sandwich,English (American),WS,word,food_drink,nouns,nouns,sandwich,63590400,736,sandwich,sandwich
+288,this,English (American),WS,word,pronouns,function_words,function_words,this,63590400,736,this,this
+289,napkin,English (American),WS,word,household,nouns,nouns,napkin,63676800,737,napkin,napkin
+290,room,English (American),WS,word,furniture_rooms,nouns,nouns,room,63676800,737,room,room
+291,doctor,English (American),WS,word,people,other,other,doctor,63676800,737,doctor,doctor
+292,asleep,English (American),WS,word,descriptive_words,predicates,adjectives,asleep,63676800,737,asleep,asleep
+293,my,English (American),WS,word,pronouns,function_words,function_words,my,63676800,737,my,my
+294,break,English (American),WS,word,action_words,predicates,verbs,break,63763200,738,break,break
+295,do,English (American),WS,word,helping_verbs,function_words,function_words,do,63763200,738,do,do
+296,ant,English (American),WS,word,animals,nouns,nouns,ant,63849600,739,ant,ant
+297,gonna get you!,English (American),WS,word,games_routines,other,other,gonna get you,63849600,739,gonna get you,gonna get you
+298,story,English (American),WS,word,toys,nouns,nouns,story,63936000,740,story,story
+299,zipper,English (American),WS,word,clothing,nouns,nouns,zipper,64022400,741,zipper,zipper
+300,purse,English (American),WS,word,household,nouns,nouns,purse,64022400,741,purse,purse
+301,tissue/kleenex,English (American),WS,word,household,nouns,nouns,tissue,64022400,741,tissue,tissue
+302,hamburger,English (American),WS,word,food_drink,nouns,nouns,hamburger,64195200,743,hamburger,hamburger
+303,shorts,English (American),WS,word,clothing,nouns,nouns,shorts,64195200,743,shorts,short
+304,comb,English (American),WS,word,household,nouns,nouns,comb (object),64195200,743,comb,comb
+305,window,English (American),WS,word,furniture_rooms,nouns,nouns,window,64195200,743,window,window
+306,work (action),English (American),WS,word,action_words,predicates,verbs,work (action),64195200,743,work,work
+307,heavy,English (American),WS,word,descriptive_words,predicates,adjectives,heavy,64195200,743,heavy,heavy
+308,coffee,English (American),WS,word,food_drink,nouns,nouns,coffee,64281600,744,coffee,coffee
+309,soup,English (American),WS,word,food_drink,nouns,nouns,soup,64281600,744,soup,soup
+310,drive,English (American),WS,word,action_words,predicates,verbs,drive,64281600,744,drive,drive
+311,helicopter,English (American),WS,word,vehicles,nouns,nouns,helicopter,64368000,745,helicopter,helicopter
+312,chocolate,English (American),WS,word,food_drink,nouns,nouns,chocolate,64368000,745,chocolate,chocolate
+313,stairs,English (American),WS,word,furniture_rooms,nouns,nouns,stairs,64368000,745,stairs,stair
+314,fix,English (American),WS,word,action_words,predicates,verbs,fix,64368000,745,fix,fix
+315,bad,English (American),WS,word,descriptive_words,predicates,adjectives,bad,64454400,746,bad,bad
+316,here,English (American),WS,word,locations,function_words,function_words,here,64454400,746,here,here
+317,squirrel,English (American),WS,word,animals,nouns,nouns,squirrel,64540800,747,squirrel,squirrel
+318,babysitter's name,English (American),WS,word,people,other,other,babysitter's name,64540800,747,babysitter's name,babysitter's name
+319,cockadoodledoo,English (American),WS,word,sounds,other,other,cockadoodledoo,64627200,748,cockadoodledoo,cockadoodledoo
+320,zebra,English (American),WS,word,animals,nouns,nouns,zebra,64627200,748,zebra,zebra
+321,hold,English (American),WS,word,action_words,predicates,verbs,hold,64627200,748,hold,hold
+322,snow,English (American),WS,word,outside,nouns,nouns,snow,64713600,749,snow,snow
+323,wanna/want to,English (American),WS,word,helping_verbs,function_words,function_words,wanna,64713600,749,wanna,wanna
+324,knife,English (American),WS,word,household,nouns,nouns,knife,64800000,750,knife,knife
+325,cook,English (American),WS,word,action_words,predicates,verbs,cook,64800000,750,cook,cook
+326,pencil,English (American),WS,word,toys,nouns,nouns,pencil,64972800,752,pencil,pencil
+327,stroller,English (American),WS,word,vehicles,nouns,nouns,stroller,65059200,753,stroller,stroller
+328,present,English (American),WS,word,toys,nouns,nouns,present,65059200,753,present,present
+329,potato,English (American),WS,word,food_drink,nouns,nouns,potato,65059200,753,potato,potato
+330,motorcycle,English (American),WS,word,vehicles,nouns,nouns,motorcycle,65145600,754,motorcycle,motorcycle
+331,lips,English (American),WS,word,body_parts,nouns,nouns,lips,65145600,754,lips,lip
+332,bedroom,English (American),WS,word,furniture_rooms,nouns,nouns,bedroom,65145600,754,bedroom,bedroom
+333,give me five!,English (American),WS,word,games_routines,other,other,give me five,65232000,755,give me five,give me five
+334,little (description),English (American),WS,word,descriptive_words,predicates,adjectives,little (description),65232000,755,little,little
+335,applesauce,English (American),WS,word,food_drink,nouns,nouns,applesauce,65318400,756,applesauce,applesauce
+336,basket,English (American),WS,word,household,nouns,nouns,basket,65318400,756,basket,basket
+337,nice,English (American),WS,word,descriptive_words,predicates,adjectives,nice,65318400,756,nice,nice
+338,sink,English (American),WS,word,furniture_rooms,nouns,nouns,sink,65404800,757,sink,sink
+339,man,English (American),WS,word,people,other,other,man,65404800,757,man,man
+340,hide,English (American),WS,word,action_words,predicates,verbs,hide,65404800,757,hide,hide
+341,alligator,English (American),WS,word,animals,nouns,nouns,alligator,65491200,758,alligator,alligator
+342,dress (object),English (American),WS,word,clothing,nouns,nouns,dress (object),65491200,758,dress,dress
+343,cloud,English (American),WS,word,outside,nouns,nouns,cloud,65491200,758,cloud,cloud
+344,catch,English (American),WS,word,action_words,predicates,verbs,catch,65491200,758,catch,catch
+345,where,English (American),WS,word,question_words,function_words,function_words,where (question),65491200,758,where,where
+346,tractor,English (American),WS,word,vehicles,nouns,nouns,tractor,65577600,759,tractor,tractor
+347,pattycake,English (American),WS,word,games_routines,other,other,pattycake,65577600,759,pattycake,pattycake
+348,carry,English (American),WS,word,action_words,predicates,verbs,carry,65577600,759,carry,carry
+349,splash,English (American),WS,word,action_words,predicates,verbs,splash,65577600,759,splash,splash
+350,camera,English (American),WS,word,household,nouns,nouns,camera,65664000,760,camera,camera
+351,draw,English (American),WS,word,action_words,predicates,verbs,draw,65664000,760,draw,draw
+352,there,English (American),WS,word,locations,function_words,function_words,there,65664000,760,there,there
+353,pumpkin,English (American),WS,word,food_drink,nouns,nouns,pumpkin,65750400,761,pumpkin,pumpkin
+354,street,English (American),WS,word,outside,nouns,nouns,street,65750400,761,street,street
+355,sleepy,English (American),WS,word,descriptive_words,predicates,adjectives,sleepy,65750400,761,sleepy,sleepy
+356,glass,English (American),WS,word,household,nouns,nouns,glass,65836800,762,glass,glass
+357,find,English (American),WS,word,action_words,predicates,verbs,find,65923200,763,find,find
+358,now,English (American),WS,word,time_words,other,other,now,65923200,763,now,now
+359,popsicle,English (American),WS,word,food_drink,nouns,nouns,popsicle,66009600,764,popsicle,popsicle
+360,necklace,English (American),WS,word,clothing,nouns,nouns,necklace,66096000,765,necklace,necklace
+361,climb,English (American),WS,word,action_words,predicates,verbs,climb,66096000,765,climb,climb
+362,knock,English (American),WS,word,action_words,predicates,verbs,knock,66096000,765,knock,knock
+363,crib,English (American),WS,word,furniture_rooms,nouns,nouns,crib,66182400,766,crib,crib
+364,refrigerator,English (American),WS,word,furniture_rooms,nouns,nouns,refrigerator,66182400,766,refrigerator,refrigerator
+365,scissors,English (American),WS,word,household,nouns,nouns,scissors,66268800,767,scissors,scissors
+366,zoo,English (American),WS,word,places,other,other,zoo,66268800,767,zoo,zoo
+367,give,English (American),WS,word,action_words,predicates,verbs,give,66268800,767,give,give
+368,stuck,English (American),WS,word,descriptive_words,predicates,adjectives,stuck,66268800,767,stuck,stuck
+369,high chair,English (American),WS,word,furniture_rooms,nouns,nouns,high chair,66355200,768,high chair,high chair
+370,aunt,English (American),WS,word,people,other,other,aunt,66355200,768,aunt,aunt
+371,wipe,English (American),WS,word,action_words,predicates,verbs,wipe,66355200,768,wipe,wipe
+372,fast,English (American),WS,word,descriptive_words,predicates,adjectives,fast,66441600,769,fast,fast
+373,tired,English (American),WS,word,descriptive_words,predicates,adjectives,tired,66441600,769,tired,tired
+374,hammer,English (American),WS,word,household,nouns,nouns,hammer,66528000,770,hammer,hammer
+375,like,English (American),WS,word,action_words,predicates,verbs,like (action),66528000,770,like,like
+376,watch (action),English (American),WS,word,action_words,predicates,verbs,watch (action),66528000,770,watch,watch
+377,dark,English (American),WS,word,descriptive_words,predicates,adjectives,dark,66528000,770,dark,dark
+378,shovel,English (American),WS,word,outside,nouns,nouns,shovel,66614400,771,shovel,shovel
+379,shopping,English (American),WS,word,games_routines,other,other,shopping,66614400,771,shopping,shopping
+380,thirsty,English (American),WS,word,descriptive_words,predicates,adjectives,thirsty,66614400,771,thirsty,thirsty
+381,bat,English (American),WS,word,toys,nouns,nouns,bat,66700800,772,bat,bat
+382,drop,English (American),WS,word,action_words,predicates,verbs,drop,66700800,772,drop,drop
+383,touch,English (American),WS,word,action_words,predicates,verbs,touch,66700800,772,touch,touch
+384,meat,English (American),WS,word,food_drink,nouns,nouns,meat,66873600,774,meat,meat
+385,party,English (American),WS,word,places,other,other,party,66873600,774,party,party
+386,bump,English (American),WS,word,action_words,predicates,verbs,bump,66873600,774,bump,bump
+387,have,English (American),WS,word,action_words,predicates,verbs,have,66873600,774,have,have
+388,too,English (American),WS,word,quantifiers,function_words,function_words,too,66873600,774,too,too
+389,pretzel,English (American),WS,word,food_drink,nouns,nouns,pretzel,66960000,775,pretzel,pretzel
+390,talk,English (American),WS,word,action_words,predicates,verbs,talk,66960000,775,talk,talk
+391,don't,English (American),WS,word,helping_verbs,function_words,function_words,don't,66960000,775,don't,don't
+392,bucket,English (American),WS,word,household,nouns,nouns,bucket,67046400,776,bucket,bucket
+393,dry (description),English (American),WS,word,descriptive_words,predicates,adjectives,dry (description),67046400,776,dry,dry
+394,wind,English (American),WS,word,outside,nouns,nouns,wind,67132800,777,wind,wind
+395,uncle,English (American),WS,word,people,other,other,uncle,67132800,777,uncle,uncle
+396,awake,English (American),WS,word,descriptive_words,predicates,adjectives,awake,67132800,777,awake,awake
+397,black,English (American),WS,word,descriptive_words,predicates,adjectives,black,67132800,777,black,black
+398,belt,English (American),WS,word,clothing,nouns,nouns,belt,67219200,778,belt,belt
+399,closet,English (American),WS,word,furniture_rooms,nouns,nouns,closet,67219200,778,closet,closet
+400,game,English (American),WS,word,toys,nouns,nouns,game,67305600,779,game,game
+401,tape,English (American),WS,word,household,nouns,nouns,tape,67305600,779,tape,tape
+402,pull,English (American),WS,word,action_words,predicates,verbs,pull,67305600,779,pull,pull
+403,careful,English (American),WS,word,descriptive_words,predicates,adjectives,careful,67305600,779,careful,careful
+404,soft,English (American),WS,word,descriptive_words,predicates,adjectives,soft,67305600,779,soft,soft
+405,it,English (American),WS,word,pronouns,function_words,function_words,it,67305600,779,it,it
+406,pickle,English (American),WS,word,food_drink,nouns,nouns,pickle,67392000,780,pickle,pickle
+407,muffin,English (American),WS,word,food_drink,nouns,nouns,muffin,67478400,781,muffin,muffin
+408,turn around,English (American),WS,word,games_routines,other,other,turn around,67478400,781,turn around,turn around
+409,paint,English (American),WS,word,action_words,predicates,verbs,paint (action),67564800,782,paint,paint
+410,back,English (American),WS,word,locations,function_words,function_words,back (location),67564800,782,back,back
+411,some,English (American),WS,word,quantifiers,function_words,function_words,some,67564800,782,some,some
+412,garbage,English (American),WS,word,household,nouns,nouns,garbage,67651200,783,garbage,garbage
+413,sticky,English (American),WS,word,descriptive_words,predicates,adjectives,sticky,67651200,783,sticky,sticky
+414,stand,English (American),WS,word,action_words,predicates,verbs,stand,67737600,784,stand,stand
+415,wait,English (American),WS,word,action_words,predicates,verbs,wait,67737600,784,wait,wait
+416,stove,English (American),WS,word,furniture_rooms,nouns,nouns,stove,67824000,785,stove,stove
+417,soda/pop,English (American),WS,word,food_drink,nouns,nouns,soda,67910400,786,soda,soda
+418,flag,English (American),WS,word,outside,nouns,nouns,flag,67910400,786,flag,flag
+419,sad,English (American),WS,word,descriptive_words,predicates,adjectives,sad,67910400,786,sad,sad
+420,dry (action),English (American),WS,word,action_words,predicates,verbs,dry (action),67996800,787,dry,dry
+421,share,English (American),WS,word,action_words,predicates,verbs,share,67996800,787,share,share
+422,stay,English (American),WS,word,action_words,predicates,verbs,stay,67996800,787,stay,stay
+423,sweep,English (American),WS,word,action_words,predicates,verbs,sweep,67996800,787,sweep,sweep
+424,deer,English (American),WS,word,animals,nouns,nouns,deer,68083200,788,deer,deer
+425,cut,English (American),WS,word,action_words,predicates,verbs,cut,68083200,788,cut,cut
+426,loud,English (American),WS,word,descriptive_words,predicates,adjectives,loud,68083200,788,loud,loud
+427,lemme/let me,English (American),WS,word,helping_verbs,function_words,function_words,lemme,68083200,788,lemme,lemme
+428,jelly,English (American),WS,word,food_drink,nouns,nouns,jelly,68169600,789,jelly,jelly
+429,high,English (American),WS,word,descriptive_words,predicates,adjectives,high,68169600,789,high,high
+430,spill,English (American),WS,word,action_words,predicates,verbs,spill,68256000,790,spill,spill
+431,scared,English (American),WS,word,descriptive_words,predicates,adjectives,scared,68256000,790,scared,scared
+432,sick,English (American),WS,word,descriptive_words,predicates,adjectives,sick,68256000,790,sick,sick
+433,donut,English (American),WS,word,food_drink,nouns,nouns,donut,68342400,791,donut,donut
+434,empty,English (American),WS,word,descriptive_words,predicates,adjectives,empty,68342400,791,empty,empty
+435,all,English (American),WS,word,quantifiers,function_words,function_words,all,68342400,791,all,all
+436,plant,English (American),WS,word,household,nouns,nouns,plant,68428800,792,plant,plant
+437,garage,English (American),WS,word,furniture_rooms,nouns,nouns,garage,68428800,792,garage,garage
+438,rocking chair,English (American),WS,word,furniture_rooms,nouns,nouns,rocking chair,68515200,793,rocking chair,rocking chair
+439,make,English (American),WS,word,action_words,predicates,verbs,make,68515200,793,make,make
+440,turkey,English (American),WS,word,animals,nouns,nouns,turkey,68601600,794,turkey,turkey
+441,slipper,English (American),WS,word,clothing,nouns,nouns,slipper,68688000,795,slipper,slipper
+442,so big!,English (American),WS,word,games_routines,other,other,so big,68688000,795,so big,so big
+443,this little piggy,English (American),WS,word,games_routines,other,other,this little piggy,68688000,795,this little piggy,this little piggy
+444,feed,English (American),WS,word,action_words,predicates,verbs,feed,68688000,795,feed,feed
+445,quiet,English (American),WS,word,descriptive_words,predicates,adjectives,quiet,68688000,795,quiet,quiet
+446,wake,English (American),WS,word,action_words,predicates,verbs,wake,68774400,796,wake,wake
+447,penny,English (American),WS,word,household,nouns,nouns,penny,68860800,797,penny,penny
+448,beach,English (American),WS,word,places,other,other,beach,68860800,797,beach,beach
+449,friend,English (American),WS,word,people,other,other,friend,68860800,797,friend,friend
+450,under,English (American),WS,word,locations,function_words,function_words,under,68860800,797,under,under
+451,oven,English (American),WS,word,furniture_rooms,nouns,nouns,oven,68947200,798,oven,oven
+452,bring,English (American),WS,word,action_words,predicates,verbs,bring,68947200,798,bring,bring
+453,hear,English (American),WS,word,action_words,predicates,verbs,hear,68947200,798,hear,hear
+454,put,English (American),WS,word,action_words,predicates,verbs,put,68947200,798,put,put
+455,smile,English (American),WS,word,action_words,predicates,verbs,smile,69033600,799,smile,smile
+456,take,English (American),WS,word,action_words,predicates,verbs,take,69033600,799,take,take
+457,morning,English (American),WS,word,time_words,other,other,morning,69033600,799,morning,morning
+458,penguin,English (American),WS,word,animals,nouns,nouns,penguin,69120000,800,penguin,penguin
+459,white,English (American),WS,word,descriptive_words,predicates,adjectives,white,69120000,800,white,white
+460,play dough,English (American),WS,word,toys,nouns,nouns,play dough,69206400,801,play dough,play dough
+461,backyard,English (American),WS,word,outside,nouns,nouns,yard,69292800,802,yard,yard
+462,brown,English (American),WS,word,descriptive_words,predicates,adjectives,brown,69292800,802,brown,brown
+463,lawn mower,English (American),WS,word,outside,nouns,nouns,lawn mower,69379200,803,lawn mower,lawn mower
+464,lamb,English (American),WS,word,animals,nouns,nouns,lamb,69465600,804,lamb,lamb
+465,penis (child's word),English (American),WS,word,body_parts,nouns,nouns,penis,69465600,804,penis,penis
+466,write,English (American),WS,word,action_words,predicates,verbs,write,69465600,804,write,write
+467,gum,English (American),WS,word,food_drink,nouns,nouns,gum,69552000,805,gum,gum
+468,full,English (American),WS,word,descriptive_words,predicates,adjectives,full,69552000,805,full,full
+469,dish,English (American),WS,word,household,nouns,nouns,dish,69638400,806,dish,dish
+470,movie,English (American),WS,word,places,other,other,movie,69638400,806,movie,movie
+471,better,English (American),WS,word,descriptive_words,predicates,adjectives,better,69638400,806,better,better
+472,people,English (American),WS,word,people,other,other,people,69724800,807,people,people
+473,away,English (American),WS,word,locations,function_words,function_words,away,69724800,807,away,away
+474,hose,English (American),WS,word,outside,nouns,nouns,hose,69897600,809,hose,hose
+475,church (child's word),English (American),WS,word,places,other,other,church,69897600,809,church,church
+476,clown,English (American),WS,word,people,other,other,clown,69897600,809,clown,clown
+477,build,English (American),WS,word,action_words,predicates,verbs,build,69897600,809,build,build
+478,say,English (American),WS,word,action_words,predicates,verbs,say,69897600,809,say,say
+479,washing machine,English (American),WS,word,furniture_rooms,nouns,nouns,washing machine,69984000,810,washing machine,washing machine
+480,show,English (American),WS,word,action_words,predicates,verbs,show,69984000,810,show,show
+481,chalk,English (American),WS,word,toys,nouns,nouns,chalk,70070400,811,chalk,chalk
+482,a,English (American),WS,word,quantifiers,function_words,function_words,a,70070400,811,a,a
+483,ladder,English (American),WS,word,outside,nouns,nouns,ladder,70156800,812,ladder,ladder
+484,snowman,English (American),WS,word,outside,nouns,nouns,snowman,70156800,812,snowman,snowman
+485,hurry,English (American),WS,word,action_words,predicates,verbs,hurry,70156800,812,hurry,hurry
+486,cute,English (American),WS,word,descriptive_words,predicates,adjectives,cute,70156800,812,cute,cute
+487,over,English (American),WS,word,locations,function_words,function_words,over,70156800,812,over,over
+488,gloves,English (American),WS,word,clothing,nouns,nouns,gloves,70243200,813,gloves,glove
+489,radio,English (American),WS,word,household,nouns,nouns,radio,70243200,813,radio,radio
+490,brother,English (American),WS,word,people,other,other,brother,70243200,813,brother,brother
+491,windy,English (American),WS,word,descriptive_words,predicates,adjectives,windy,70243200,813,windy,windy
+492,and,English (American),WS,word,connecting_words,function_words,function_words,and,70243200,813,and,and
+493,nuts,English (American),WS,word,food_drink,nouns,nouns,nuts,70329600,814,nuts,nut
+494,vitamins,English (American),WS,word,food_drink,nouns,nouns,vitamins,70329600,814,vitamins,vitamin
+495,shoulder,English (American),WS,word,body_parts,nouns,nouns,shoulder,70329600,814,shoulder,shoulder
+496,sandbox,English (American),WS,word,outside,nouns,nouns,sandbox,70329600,814,sandbox,sandbox
+497,sister,English (American),WS,word,people,other,other,sister,70329600,814,sister,sister
+498,shake,English (American),WS,word,action_words,predicates,verbs,shake,70329600,814,shake,shake
+499,lollipop,English (American),WS,word,food_drink,nouns,nouns,lollipop,70416000,815,lollipop,lollipop
+500,can (object),English (American),WS,word,household,nouns,nouns,can (object),70416000,815,can,can
+501,goose,English (American),WS,word,animals,nouns,nouns,goose,70502400,816,goose,goose
+502,drawer,English (American),WS,word,furniture_rooms,nouns,nouns,drawer,70502400,816,drawer,drawer
+503,buy,English (American),WS,word,action_words,predicates,verbs,buy,70502400,816,buy,buy
+504,living room,English (American),WS,word,furniture_rooms,nouns,nouns,living room,70675200,818,living room,living room
+505,lick,English (American),WS,word,action_words,predicates,verbs,lick,70675200,818,lick,lick
+506,can (auxiliary),English (American),WS,word,helping_verbs,function_words,function_words,can (auxiliary),70761600,819,can,can
+507,yard,English (American),WS,word,places,other,other,yard,70848000,820,yard,yard
+508,green beans,English (American),WS,word,food_drink,nouns,nouns,green beans,70934400,821,green beans,green beans
+509,sidewalk,English (American),WS,word,outside,nouns,nouns,sidewalk,70934400,821,sidewalk,sidewalk
+510,the,English (American),WS,word,quantifiers,function_words,function_words,the,71020800,822,the,the
+511,underpants,English (American),WS,word,clothing,nouns,nouns,underpants,71107200,823,underpants,underpants
+512,to,English (American),WS,word,locations,function_words,function_words,to,71107200,823,to,to
+513,gonna/going to,English (American),WS,word,helping_verbs,function_words,function_words,gonna,71107200,823,gonna,gonna
+514,jeans,English (American),WS,word,clothing,nouns,nouns,jeans,71193600,824,jeans,jean
+515,later,English (American),WS,word,time_words,other,other,later,71193600,824,later,later
+516,hard,English (American),WS,word,descriptive_words,predicates,adjectives,hard,71280000,825,hard,hard
+517,not,English (American),WS,word,quantifiers,function_words,function_words,not,71280000,825,not,not
+518,playground,English (American),WS,word,places,other,other,playground,71366400,826,playground,playground
+519,rooster,English (American),WS,word,animals,nouns,nouns,rooster,71539200,828,rooster,rooster
+520,mittens,English (American),WS,word,clothing,nouns,nouns,mittens,71712000,830,mittens,mitten
+521,lamp,English (American),WS,word,household,nouns,nouns,lamp,71712000,830,lamp,lamp
+522,fireman,English (American),WS,word,people,other,other,firefighter,71712000,830,firefighter,firefighter
+523,lady,English (American),WS,word,people,other,other,lady,71712000,830,lady,lady
+524,cover,English (American),WS,word,action_words,predicates,verbs,cover (action),71712000,830,cover,cover
+525,why,English (American),WS,word,question_words,function_words,function_words,why,71712000,830,why,why
+526,with,English (American),WS,word,locations,function_words,function_words,with,71712000,830,with,with
+527,dryer,English (American),WS,word,furniture_rooms,nouns,nouns,dryer,71798400,831,dryer,dryer
+528,pour,English (American),WS,word,action_words,predicates,verbs,pour,71798400,831,pour,pour
+529,taste,English (American),WS,word,action_words,predicates,verbs,taste,71798400,831,taste,taste
+530,sauce,English (American),WS,word,food_drink,nouns,nouns,sauce,71884800,832,sauce,sauce
+531,listen,English (American),WS,word,action_words,predicates,verbs,listen,71884800,832,listen,listen
+532,pony,English (American),WS,word,animals,nouns,nouns,pony,72057600,834,pony,pony
+533,farm,English (American),WS,word,places,other,other,farm,72057600,834,farm,farm
+534,chase,English (American),WS,word,action_words,predicates,verbs,chase,72144000,835,chase,chase
+535,new,English (American),WS,word,descriptive_words,predicates,adjectives,new,72144000,835,new,new
+536,he,English (American),WS,word,pronouns,function_words,function_words,he,72144000,835,he,he
+537,need/need to,English (American),WS,word,helping_verbs,function_words,function_words,need,72144000,835,need,need
+538,jello,English (American),WS,word,food_drink,nouns,nouns,jello,72230400,836,jello,jello
+539,melon,English (American),WS,word,food_drink,nouns,nouns,melon,72230400,836,melon,melon
+540,nail,English (American),WS,word,household,nouns,nouns,nail (object),72230400,836,nail,nail
+541,finish,English (American),WS,word,action_words,predicates,verbs,finish,72230400,836,finish,finish
+542,mad,English (American),WS,word,descriptive_words,predicates,adjectives,mad,72316800,837,mad,mad
+543,who,English (American),WS,word,question_words,function_words,function_words,who,72316800,837,who,who
+544,did/did ya,English (American),WS,word,helping_verbs,function_words,function_words,did,72316800,837,did,did
+545,pick,English (American),WS,word,action_words,predicates,verbs,pick,72403200,838,pick,pick
+546,is,English (American),WS,word,helping_verbs,function_words,function_words,is,72489600,839,is,is
+547,gentle,English (American),WS,word,descriptive_words,predicates,adjectives,gentle,72662400,841,gentle,gentle
+548,another,English (American),WS,word,quantifiers,function_words,function_words,another,72662400,841,another,another
+549,noisy,English (American),WS,word,descriptive_words,predicates,adjectives,noisy,72748800,842,noisy,noisy
+550,teacher,English (American),WS,word,people,other,other,teacher,72835200,843,teacher,teacher
+551,first,English (American),WS,word,descriptive_words,predicates,adjectives,first,72835200,843,first,first
+552,salt,English (American),WS,word,food_drink,nouns,nouns,salt,73008000,845,salt,salt
+553,try/try to,English (American),WS,word,helping_verbs,function_words,function_words,try,73094400,846,try,try
+554,gas station,English (American),WS,word,places,other,other,gas station,73267200,848,gas station,gas station
+555,at,English (American),WS,word,locations,function_words,function_words,at,73267200,848,at,at
+556,donkey,English (American),WS,word,animals,nouns,nouns,donkey,73353600,849,donkey,donkey
+557,mailman,English (American),WS,word,people,other,other,mailman,73353600,849,mailman,mailman
+558,day,English (American),WS,word,time_words,other,other,day,73353600,849,day,day
+559,wolf,English (American),WS,word,animals,nouns,nouns,wolf,73440000,850,wolf,wolf
+560,picnic,English (American),WS,word,places,other,other,picnic,73526400,851,picnic,picnic
+561,police,English (American),WS,word,people,other,other,police,73526400,851,police,police
+562,coke,English (American),WS,word,food_drink,nouns,nouns,coke,73699200,853,coke,coke
+563,fit,English (American),WS,word,action_words,predicates,verbs,fit,73699200,853,fit,fit
+564,for,English (American),WS,word,locations,function_words,function_words,for,73699200,853,for,for
+565,slow,English (American),WS,word,descriptive_words,predicates,adjectives,slow,73785600,854,slow,slow
+566,pudding,English (American),WS,word,food_drink,nouns,nouns,pudding,73958400,856,pudding,pudding
+567,jar,English (American),WS,word,household,nouns,nouns,jar,74044800,857,jar,jar
+568,garden,English (American),WS,word,outside,nouns,nouns,garden,74044800,857,garden,garden
+569,roof,English (American),WS,word,outside,nouns,nouns,roof,74217600,859,roof,roof
+570,other,English (American),WS,word,quantifiers,function_words,function_words,other,74217600,859,other,other
+571,on top of,English (American),WS,word,locations,function_words,function_words,on top of,74390400,861,on top of,on top of
+572,sprinkler,English (American),WS,word,outside,nouns,nouns,sprinkler,74476800,862,sprinkler,sprinkler
+573,your,English (American),WS,word,pronouns,function_words,function_words,your,74476800,862,your,your
+574,today,English (American),WS,word,time_words,other,other,today,74563200,863,today,today
+575,she,English (American),WS,word,pronouns,function_words,function_words,she,74563200,863,she,she
+576,a lot,English (American),WS,word,quantifiers,function_words,function_words,a lot,74563200,863,a lot,a lot
+577,tricycle,English (American),WS,word,vehicles,nouns,nouns,tricycle,74649600,864,tricycle,tricycle
+578,tomorrow,English (American),WS,word,time_words,other,other,tomorrow,74649600,864,tomorrow,tomorrow
+579,these,English (American),WS,word,pronouns,function_words,function_words,these,74649600,864,these,these
+580,behind,English (American),WS,word,locations,function_words,function_words,behind,74649600,864,behind,behind
+581,by,English (American),WS,word,locations,function_words,function_words,by,74736000,865,by,by
+582,glue,English (American),WS,word,toys,nouns,nouns,glue,74822400,866,glue,glue
+583,am,English (American),WS,word,helping_verbs,function_words,function_words,am,74822400,866,am,am
+584,mop,English (American),WS,word,household,nouns,nouns,mop,74995200,868,mop,mop
+585,hafta/have to,English (American),WS,word,helping_verbs,function_words,function_words,hafta,75254400,871,hafta,hafta
+586,old,English (American),WS,word,descriptive_words,predicates,adjectives,old,75340800,872,old,old
+587,moose,English (American),WS,word,animals,nouns,nouns,moose,75600000,875,moose,moose
+588,after,English (American),WS,word,time_words,other,other,after,75600000,875,after,after
+589,beads,English (American),WS,word,clothing,nouns,nouns,beads,75859200,878,beads,bead
+590,her,English (American),WS,word,pronouns,function_words,function_words,her,75859200,878,her,her
+591,dump,English (American),WS,word,action_words,predicates,verbs,dump,76032000,880,dump,dump
+592,are,English (American),WS,word,helping_verbs,function_words,function_words,are,76032000,880,are,are
+593,long,English (American),WS,word,descriptive_words,predicates,adjectives,long,76118400,881,long,long
+594,tear,English (American),WS,word,action_words,predicates,verbs,tear,76204800,882,tear,tear
+595,any,English (American),WS,word,quantifiers,function_words,function_words,any,76204800,882,any,any
+596,ankle,English (American),WS,word,body_parts,nouns,nouns,ankle,76464000,885,ankle,ankle
+597,around,English (American),WS,word,locations,function_words,function_words,around,76464000,885,around,around
+598,sneaker,English (American),WS,word,clothing,nouns,nouns,sneaker,76636800,887,sneaker,sneaker
+599,him,English (American),WS,word,pronouns,function_words,function_words,him,76636800,887,him,him
+600,we,English (American),WS,word,pronouns,function_words,function_words,we,76636800,887,we,we
+601,how,English (American),WS,word,question_words,function_words,function_words,how,76809600,889,how,how
+602,porch,English (American),WS,word,furniture_rooms,nouns,nouns,porch,76982400,891,porch,porch
+603,hen,English (American),WS,word,animals,nouns,nouns,hen,77241600,894,hen,hen
+604,pretend,English (American),WS,word,action_words,predicates,verbs,pretend,77328000,895,pretend,pretend
+605,think,English (American),WS,word,action_words,predicates,verbs,think,77414400,896,think,think
+606,sled,English (American),WS,word,vehicles,nouns,nouns,sled,77500800,897,sled,sled
+607,those,English (American),WS,word,pronouns,function_words,function_words,those,77500800,897,those,those
+608,his,English (American),WS,word,pronouns,function_words,function_words,his,77587200,898,his,his
+609,fine,English (American),WS,word,descriptive_words,predicates,adjectives,fine,77846400,901,fine,fine
+610,myself,English (American),WS,word,pronouns,function_words,function_words,myself,77846400,901,myself,myself
+611,skate,English (American),WS,word,action_words,predicates,verbs,skate,77932800,902,skate,skate
+612,tiny,English (American),WS,word,descriptive_words,predicates,adjectives,tiny,77932800,902,tiny,tiny
+613,because,English (American),WS,word,connecting_words,function_words,function_words,because,78019200,903,because,because
+614,tuna,English (American),WS,word,food_drink,nouns,nouns,tuna,78105600,904,tuna,tuna
+615,cowboy,English (American),WS,word,people,other,other,cowboy,78105600,904,cowboy,cowboy
+616,sofa,English (American),WS,word,furniture_rooms,nouns,nouns,sofa,78192000,905,sofa,sofa
+617,will,English (American),WS,word,helping_verbs,function_words,function_words,will,78278400,906,will,will
+618,bench,English (American),WS,word,furniture_rooms,nouns,nouns,bench,78364800,907,bench,bench
+619,be,English (American),WS,word,helping_verbs,function_words,function_words,be,78451200,908,be,be
+620,rip,English (American),WS,word,action_words,predicates,verbs,rip,78537600,909,rip,rip
+621,stone,English (American),WS,word,outside,nouns,nouns,stone,78624000,910,stone,stone
+622,tonight,English (American),WS,word,time_words,other,other,tonight,78710400,911,tonight,tonight
+623,they,English (American),WS,word,pronouns,function_words,function_words,they,78796800,912,they,they
+624,gotta/got to,English (American),WS,word,helping_verbs,function_words,function_words,gotta,78796800,912,gotta,gotta
+625,time,English (American),WS,word,time_words,other,other,time,78883200,913,time,time
+626,next to,English (American),WS,word,locations,function_words,function_words,next to,78883200,913,next to,next to
+627,same,English (American),WS,word,quantifiers,function_words,function_words,same,78883200,913,same,same
+628,circus,English (American),WS,word,places,other,other,circus,78969600,914,circus,circus
+629,play pen,English (American),WG,word,furniture_rooms,nouns,nouns,play pen,78969600,914,play pen,play pen
+630,babysitter,English (American),WG,word,people,other,other,babysitter,78969600,914,babysitter,babysitter
+631,child,English (American),WG,word,people,other,other,child,78969600,914,child,child
+632,person,English (American),WG,word,people,other,other,person,78969600,914,person,person
+633,naughty,English (American),WG,word,descriptive_words,predicates,adjectives,naughty,78969600,914,naughty,naughty
+634,when,English (American),WG,word,question_words,function_words,function_words,when (question),78969600,914,when,when
+635,in,English (American),WG,word,locations,function_words,function_words,in,78969600,914,in,in
+636,inside,English (American),WG,word,locations,function_words,function_words,inside,78969600,914,inside,inside
+637,none,English (American),WG,word,quantifiers,function_words,function_words,none,78969600,914,none,none
